@@ -11,8 +11,6 @@
 ### SUBSCRIBE ME
 [![Bilibili Home Page](https://img.shields.io/badge/-bilibili-blue.svg?style=flat-square)](https://space.bilibili.com/1098279072)
 [![MCMOD Home Page](https://img.shields.io/badge/-mcmod-darkgreen.svg?style=flat-square)](https://center.mcmod.cn/420490/)
-[![CurseForge Home Page](https://img.shields.io/badge/-CurseForge-darkorange.svg?style=flat-square)](https://center.mcmod.cn/420490/)
-
 
 [![GitHub Issues](https://img.shields.io/badge/Github%20Issues-0%20Open-brightgreen.svg?style=flat-square)](https://github.com/At87668/MoreAnimation/isseus)
 [![GitHub Pulls](https://img.shields.io/badge/Github%20Pulls-0%20Pull%20requests-brightgreen.svg?style=flat-square)](https://github.com/At87668/MoreAnimation/pulls)
