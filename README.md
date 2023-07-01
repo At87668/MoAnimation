@@ -2,8 +2,8 @@
 
 - This a Fork for Mo' Bends
 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/mobends/MoBends.svg)](https://github.com/At87668/MoreAnimation/pulls)
-[![GitHub issues](https://img.shields.io/github/issues-raw/mobends/MoBends.svg)](https://github.com/At87668/MoreAnimation/issues)
+[![GitHub pull requests]()](https://github.com/At87668/MoreAnimation/pulls)
+[![GitHub issues]()](https://github.com/At87668/MoreAnimation/issues)
 
 A Minecraft mod that adds more realistic looking animations to the inhabitants of your blocky world.
 
