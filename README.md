@@ -2,7 +2,7 @@
 
 
 - This a Fork for Mo' Bends
-
+- `Please note: We do not provide support for versions of Minecraft other than 1.16.5!`
 <!--
 [![Bilibili Icon](https://www.bilibili.com/favicon.ico)](https://space.bilibili.com/1098279072)
 [![Bilibili Home Page](https://img.shields.io/badge/-SUBSCRIBE%20ME-blue.svg?style=flat-square)](https://space.bilibili.com/1098279072)
