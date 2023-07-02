@@ -21,8 +21,8 @@ jobs:
         java-version: '8'
         distribution: 'temurin'
         cache: gradlew
-# Maven 打包 
-    - name: Build
+# Gradlew 打包 
+    - name: Build Jar
       run: |
         chmod -R 777 ./gradlew
         chmod 777 ./gradlew
@@ -30,7 +30,7 @@ jobs:
 # 将打包好的 Jar 包 放到 staging 文件夹
     - run: mkdir staging && cp target/*.jar build
 # 上传文件并发布 Release
-    - uses: "marvinpinto/action-automatic-releases@latest"
+    - uses: "AutoMatic/action-automatic-releases@latest"
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "${{ env.RELEASE_VERSION }}"
