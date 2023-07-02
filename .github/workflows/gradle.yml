@@ -20,7 +20,7 @@ jobs:
       with:
         java-version: '8'
         distribution: 'temurin'
-        cache: maven
+        cache: gradlew
 # Maven 打包 
     - name: Build
       run: |
