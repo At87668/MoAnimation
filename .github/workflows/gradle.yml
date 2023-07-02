@@ -30,7 +30,7 @@ jobs:
 # 将打包好的 Jar 包 放到 staging 文件夹
     - run: mkdir staging && cp target/*.jar build
 # 上传文件并发布 Release
-    - uses: "AutoMatic/action-automatic-releases@latest"
+    - uses: "MoreAnimation/action-automatic-releases@latest"
       with:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "${{ env.RELEASE_VERSION }}"
