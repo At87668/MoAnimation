@@ -1,5 +1,6 @@
 package goblinbob.mobends.core;
 
+
 public class BasePropertyKeys
 {
     public static final String LIFETIME = "lifetime";
