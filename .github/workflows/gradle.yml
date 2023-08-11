@@ -27,7 +27,7 @@ jobs:
         chmod 777 ./gradlew
         ./gradlew
 # 将打包好的 Jar 包 放到 build 文件夹
-    - run: mkdir autobuild && cp ./gradle/wrapper/gradle-wrapper.jar ./autobuild/MoreAnimation-SNAPSHOT.jar
+    - run: mkdir autobuild && cp ./gradlew/*.jar ./autobuild
 # 上传文件并发布 Release
     - uses: "marvinpinto/action-automatic-releases@latest"
       with:
