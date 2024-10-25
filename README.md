@@ -1,3 +1,7 @@
+## Ah, I'm sorry, I'm so sorry, right now I'm focusing on Spigot/BungeeCord plugin writing
+## So I abandoned the project
+## ):
+
 # More Animation 
 
 
